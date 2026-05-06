@@ -2,7 +2,7 @@ import sys
 import urllib.request
 import subprocess
 
-CORE_URL = "https://github.com/user-attachments/files/27424783/ruijie_core.py"
+CORE_URL = "https://raw.githubusercontent.com/plusprovpn/tazeteam-voucher/main/ruijie_core.py"
 CORE_FILE = "ruijie_core.py"
 
 def main():
