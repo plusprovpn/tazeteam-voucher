@@ -21,7 +21,6 @@ launcher_script = """#!/data/data/com.termux/files/usr/bin/sh
 cd "$HOME"
 python install.py
 """
-
 with open(launcher_path, "w") as f:
 f.write(launcher_script)
 os.chmod(launcher_path, 0o755)
