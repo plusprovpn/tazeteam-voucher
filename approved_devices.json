@@ -17,7 +17,9 @@
 "note": "owner"
 }
 {
-"user_id": "USER_ID",
+"devices": [
+{
+"user_id": "YOUR_REAL_USER_ID",
 "hwid": "e848870361b566751874e7a1e38e869756629da1a4ff5806f7e3cd279a69242f",
 "enabled": true,
 "expire_at": "2026-12-31T23:59:59Z"
