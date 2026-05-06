@@ -4,13 +4,6 @@
 "devices": [
 {
 "user_id": "5886162603",
-"hwid": "e848870361b566751874e7a1e38e869756629da1a4ff5806f7e3cd279a69242f",
-"enabled": true,
-"expire_at": "2026-12-31T23:59:59Z",
-"note": "owner"
-}
-{
-"user_id": "5886162603",
 "hwid": "ea347aed54f600d863f07dcb0cc690d4f9517ead914e32a56f062c0bf95c3644",
 "enabled": true,
 "expire_at": "2026-12-31T23:59:59Z"
