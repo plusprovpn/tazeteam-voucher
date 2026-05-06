@@ -8,13 +8,13 @@
 "expire_at": "2026-12-31T23:59:59Z",
 "enabled": true,
 "note": "sample"
-}
-]
-}
+},
 {
 "user_id": "5886162603",
 "hwid": "c92438dbafabffefd9fd0750e0a5701c8a27113a1fa5c288d761a65b5fa09270",
 "expire_at": "2026-12-31T23:59:59Z",
 "enabled": true,
 "note": "owner"
+}
+]
 }
