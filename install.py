@@ -23,6 +23,6 @@ cd "$HOME"
 python install.py
 """
 with open(launcher_path, "w") as f:
-f.write(launcher_script)
-os.chmod(launcher_path, 0o755)
+    f.write(launcher_script)
+    os.chmod(launcher_path, 0o755)
 print("[+] Command installed: tazeteam")
