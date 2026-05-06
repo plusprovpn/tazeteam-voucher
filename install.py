@@ -1,5 +1,4 @@
-python - << 'PY'
-code = '''import sys
+import sys
 import urllib.request
 import subprocess
 
@@ -18,9 +17,3 @@ print(f"[!] Error: {e}")
 
 if __name__ == "__main__":
 main()
-'''
-open("install.py","w").write(code)
-print("install.py written ✅")
-PY
-
-python install.py
