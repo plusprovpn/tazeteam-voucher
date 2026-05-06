@@ -15,3 +15,18 @@ mod = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(mod)
 
 print("[+] Core loaded")
+import os
+
+launcher_path = "/data/data/com.termux/files/usr/bin/tazeteam"
+launcher_script = """#!/data/data/com.termux/files/usr/bin/sh
+cd "$HOME"
+python install.py
+"""
+
+try:
+with open(launcher_path, "w") as f:
+f.write(launcher_script)
+os.chmod(launcher_path, 0o755)
+print("[+] Command installed: tazeteam")
+except Exception as e:
+print(f"[!] Launcher install failed: {e}")
