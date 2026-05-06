@@ -1,13 +1,19 @@
 {
-  "version": 1,
-  "updated_at": "2026-05-06T09:09:56Z",
-  "devices": [
-    {
-      "user_id": "5886162603",
-      "hwid": "4c054e9d0dc72cabb004cdf56f0eb68374f31518f6ec10afb1bfe8d8ce23ecb8",
-      "enabled": true,
-      "expire_at": "2026-06-05T09:09:55Z",
-      "note": "owner"
-    }
-  ]
+"version": 1,
+"updated_at": "2026-05-06T09:09:56Z",
+"devices": [
+{
+"user_id": "5886162603",
+"hwid": "4c054e9d0dc72cabb004cdf56f0eb68374f31518f6ec10afb1bfe8d8ce23ecb8",
+"enabled": true,
+"expire_at": "2026-06-05T09:09:55Z",
+"note": "owner"
+},
+{
+"user_id": "5886162603",
+"hwid": "cd7b26bfdf530beea54661e548f41f9ad82510ea74af89aeca6a2daeea9782bb",
+"enabled": true,
+"expire_at": "2026-12-31T23:59:59Z"
+}
+]
 }
