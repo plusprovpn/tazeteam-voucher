@@ -1,4 +1,3 @@
-cat > install.py << 'PY'
 import urllib.request
 import importlib.util
 from pathlib import Path
@@ -27,6 +26,3 @@ with open(launcher_path, "w") as f:
 f.write(launcher_script)
 os.chmod(launcher_path, 0o755)
 print("[+] Command installed: tazeteam")
-PY
-
-python install.py
