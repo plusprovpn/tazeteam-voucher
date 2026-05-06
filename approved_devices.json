@@ -1,0 +1,13 @@
+{
+"version": 1,
+"updated_at": "2026-05-06T03:30:00Z",
+"devices": [
+{
+"user_id": "demo_user",
+"hwid": "demo_hwid_hash",
+"expire_at": "2026-12-31T23:59:59Z",
+"enabled": true,
+"note": "sample"
+}
+]
+}
