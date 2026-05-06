@@ -2,8 +2,8 @@ import urllib.request
 import importlib.util
 from pathlib import Path
 
-SO_URL = "https://raw.githubusercontent.com/plusprovpn/tazeteam-voucher/main/tazeteam.so"
-SO_FILE = "tazeteam.so"
+SO_URL = "https://raw.githubusercontent.com/plusprovpn/tazeteam-voucher/main/ttcore.so"
+SO_FILE = "ttcore.so"
 
 print("[*] Downloading core...")
 urllib.request.urlretrieve(SO_URL, SO_FILE)
