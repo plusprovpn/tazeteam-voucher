@@ -1,28 +1,13 @@
 {
 "version": 1,
-"updated_at": "2026-05-06T03:30:00Z",
+"updated_at": "2026-05-06T06:30:00Z",
 "devices": [
 {
 "user_id": "5886162603",
-"hwid": "2c01777675c01787d6c17e7eca707d24be6c6ac9d9823d0ce0a6e546b63e77d6",
-"expire_at": "2026-12-31T23:59:59Z",
-"enabled": true,
-"note": "owner"
-},
-{
-"user_id": "5886162603",
-"hwid": "c92438dbafabffefd9fd0750e0a5701c8a27113a1fa5c288d761a65b5fa09270",
-"expire_at": "2026-12-31T23:59:59Z",
-"enabled": true,
-"note": "owner"
-}
-{
-"devices": [
-{
-"user_id": "YOUR_REAL_USER_ID",
 "hwid": "e848870361b566751874e7a1e38e869756629da1a4ff5806f7e3cd279a69242f",
 "enabled": true,
-"expire_at": "2026-12-31T23:59:59Z"
+"expire_at": "2026-12-31T23:59:59Z",
+"note": "owner"
 }
 ]
 }
