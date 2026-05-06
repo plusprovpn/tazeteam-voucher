@@ -14,6 +14,13 @@
 "hwid": "7ebc681d281da67eb19b4074bc7b727def534f83152c0b3544ee342701fb2090",
 "enabled": true,
 "expire_at": "2026-12-31T23:59:59Z"
-}
+},
+{
+"user_id": "5886162603",
+"hwid": "8fa920e773775cd029059399fb4cc580150d975753e96cfaed145fa80ab400ba",
+"enabled": true,
+"expire_at": "2026-12-31T23:59:59Z",
+"note": "client"
+}  
 ]
 }
