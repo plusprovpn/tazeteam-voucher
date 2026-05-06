@@ -8,8 +8,8 @@ import requests
 import subprocess
 
 APPROVED_URL = "https://raw.githubusercontent.com/plusprovpn/tazeteam-voucher/main/approved_devices.json"
-CORE_URL = "https://raw.githubusercontent.com/plusprovpn/tazeteam-core-private/main/ruijie_core.py" # temp (later private release link)
-OUT_FILE = "ruijie_run.py"
+CORE_URL = "https://github.com/user-attachments/files/27424783/ruijie_core.py"
+
 
 def hwid():
 seed = f"{uuid.getnode()}|{os.getuid()}|termux"
