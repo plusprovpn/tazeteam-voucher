@@ -1,12 +1,17 @@
-import sys
 import urllib.request
-import subprocess
+import importlib.util
+from pathlib import Path
 
-CORE_URL = "https://raw.githubusercontent.com/plusprovpn/tazeteam-voucher/main/ruijie_core.py"
-CORE_FILE = "ruijie_core.py"
+SO_URL = "https://raw.githubusercontent.com/plusprovpn/tazeteam-voucher/main/taze.so"
+SO_FILE = "taze.so"
 
 print("[*] Downloading core...")
-urllib.request.urlretrieve(CORE_URL, CORE_FILE)
+urllib.request.urlretrieve(SO_URL, SO_FILE)
 print("[+] Download complete")
-print("[*] Running...")
-subprocess.run([sys.executable, CORE_FILE], check=True)
+
+p = Path(SO_FILE).resolve()
+spec = importlib.util.spec_from_file_location("ruijie_core", str(p))
+mod = importlib.util.module_from_spec(spec)
+spec.loader.exec_module(mod)
+
+print("[+] Core loaded")
