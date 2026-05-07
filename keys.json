@@ -80,6 +80,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-VJNU-L4YG-X1TG",
+      "enabled": true,
+      "expire_at": "2026-06-06T16:52:42Z",
+      "hwid": null,
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
