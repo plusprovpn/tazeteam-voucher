@@ -1,45 +1,55 @@
 {
-"grace_hours": 24,
-"keys": [
-{
-"key": "TZ-9X3K-7M2P-4Q1R",
-"enabled": true,
-"expire_at": "2026-12-31T23:59:59Z",
-"hwid": "0469f597b70cb211687333427474b47da7f71ea07ce022c00a1ab6bd3a1e6b96",
-"perm": {
-"menu3": false,
-"menu4": false
-}
-},
-{
-"key": "TZ-ABCD-EFGH-IJKL",
-"enabled": true,
-"expire_at": "2026-12-31T23:59:59Z",
-"hwid": "b3cd1754c46fe28c8d47c1ce5dca60f7f153e860fa655875f12e60763dae70dd",
-"perm": {
-"menu3": false,
-"menu4": false
-}
-},
-{
-"key": "TZ-ABCD-1234-IJKL",
-"enabled": true,
-"expire_at": "2026-12-31T23:59:59Z",
-"hwid": "a0b6e2a8da1a1c6975f7b37981aecdc9c348e123329805a7c661812f366fd090",
-"perm": {
-"menu3": false,
-"menu4": false
-}
-},
-{
-"key": "TZ-ABCD-6666-IJKL",
-"enabled": true,
-"expire_at": "2026-12-31T23:59:59Z",
-"hwid": "a38bfdb662b4c8885337532973ac950483022ba877cb89c0a7c011543ebbc594",
-"perm": {
-"menu3": false,
-"menu4": false
-}
-}
-]
+  "grace_hours": 24,
+  "keys": [
+    {
+      "key": "TZ-9X3K-7M2P-4Q1R",
+      "enabled": true,
+      "expire_at": "2026-12-31T23:59:59Z",
+      "hwid": "0469f597b70cb211687333427474b47da7f71ea07ce022c00a1ab6bd3a1e6b96",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
+    },
+    {
+      "key": "TZ-ABCD-EFGH-IJKL",
+      "enabled": true,
+      "expire_at": "2026-12-31T23:59:59Z",
+      "hwid": "b3cd1754c46fe28c8d47c1ce5dca60f7f153e860fa655875f12e60763dae70dd",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
+    },
+    {
+      "key": "TZ-ABCD-1234-IJKL",
+      "enabled": true,
+      "expire_at": "2026-12-31T23:59:59Z",
+      "hwid": "a0b6e2a8da1a1c6975f7b37981aecdc9c348e123329805a7c661812f366fd090",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
+    },
+    {
+      "key": "TZ-ABCD-6666-IJKL",
+      "enabled": true,
+      "expire_at": "2026-12-31T23:59:59Z",
+      "hwid": "a38bfdb662b4c8885337532973ac950483022ba877cb89c0a7c011543ebbc594",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
+    },
+    {
+      "key": "TZ-EMVB-X0HF-AQ2C",
+      "enabled": true,
+      "hwid": "b3cd1754c46fe28c8d47c1ce5dca60f7f153e860fa655875f12e60763dae70dd",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      },
+      "expire_at": "2026-06-06T16:08:34Z"
+    }
+  ]
 }
