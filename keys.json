@@ -13,7 +13,7 @@
 },
 {
 "key": "TZ-ABCD-EFGH-IJKL",
-"enabled": false,
+"enabled": true,
 "expire_at": "2026-12-31T23:59:59Z",
 "hwid": "5269fe51c24909aaac34ad3eca1bfa471e7204a2bee7f19172e03a13d64f595e",
 "perm": {
