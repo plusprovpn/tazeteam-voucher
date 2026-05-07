@@ -15,7 +15,7 @@
 "key": "TZ-ABCD-EFGH-IJKL",
 "enabled": true,
 "expire_at": "2026-12-31T23:59:59Z",
-"hwid": null
+"hwid": null,
 "perm": {
 "menu3": false,
 "menu4": false
