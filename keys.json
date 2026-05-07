@@ -60,6 +60,16 @@
         "menu4": false
       },
       "expire_at": "2026-05-14T16:14:44Z"
+    },
+    {
+      "key": "TZ-FRPB-M2NG-CE8I",
+      "enabled": true,
+      "expire_at": "2026-05-14T16:21:35Z",
+      "hwid": null,
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
