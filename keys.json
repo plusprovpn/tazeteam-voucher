@@ -70,6 +70,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-RIJF-DB5E-ONTN",
+      "enabled": true,
+      "expire_at": "2026-05-14T16:26:43Z",
+      "hwid": null,
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
