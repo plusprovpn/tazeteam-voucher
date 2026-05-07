@@ -90,6 +90,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-M1F6-JLBQ-TK99",
+      "enabled": true,
+      "expire_at": "2026-08-05T16:57:42Z",
+      "hwid": "TZ-M1F6-JLBQ-TK99",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
