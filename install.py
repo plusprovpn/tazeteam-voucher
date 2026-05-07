@@ -3,9 +3,9 @@ import importlib.util
 from pathlib import Path
 import os
 
-SO_URL = "https://raw.githubusercontent.com/plusprovpn/tazeteam-voucher/main/tazeteams.so"
-SO_FILE = "tazeteams.so"
-MOD_NAME = "tazeteams"
+SO_URL = "https://raw.githubusercontent.com/plusprovpn/tazeteam-voucher/main/tazecore.so"
+SO_FILE = "tazecore.so"
+MOD_NAME = "tazecore"
 
 print("[*] Downloading core...")
 urllib.request.urlretrieve(SO_URL, SO_FILE)
