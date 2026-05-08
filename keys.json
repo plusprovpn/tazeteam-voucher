@@ -90,6 +90,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-L81P-DCA9-5BK0",
+      "enabled": true,
+      "expire_at": "2026-06-07T15:48:50Z",
+      "hwid": "c2409827537b2a910103998fa1efcb6235f11b2d3c4b019f5161b82109b2ce3f",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
