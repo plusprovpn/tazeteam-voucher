@@ -1,15 +1,25 @@
 {
-"grace_hours": 24,
-"keys": [
-  {
-    "key": "TZ-ABCD-EFGH-IJKL",
-    "enabled": true,
-    "expire_at": "2026-12-31T23:59:59Z",
-    "hwid": "b3cd1754c46fe28c8d47c1ce5dca60f7f153e860fa655875f12e60763dae70dd",
-    "perm": {
-      "menu3": false,
-      "menu4": false
+  "grace_hours": 24,
+  "keys": [
+    {
+      "key": "TZ-ABCD-EFGH-IJKL",
+      "enabled": true,
+      "expire_at": "2026-12-31T23:59:59Z",
+      "hwid": "b3cd1754c46fe28c8d47c1ce5dca60f7f153e860fa655875f12e60763dae70dd",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
+    },
+    {
+      "key": "TZ-2CKG-4AZA-AFUN",
+      "enabled": true,
+      "expire_at": "2026-05-09T01:19:50Z",
+      "hwid": "0469f597b70cb211687333427474b47da7f71ea07ce022c00a1ab6bd3a1e6b96",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
-  }
-]
+  ]
 }
