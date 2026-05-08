@@ -80,6 +80,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-YVEL-TXBS-MXAL",
+      "enabled": true,
+      "expire_at": "2026-06-07T14:32:07Z",
+      "hwid": "ef9d8f4eba28b15e09f1f1ad9e71899cc47c05c9aeaa61fc0d5103374d6b894d",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
