@@ -73,7 +73,7 @@
     },
     {
       "key": "TZ-RIJF-DB5E-ONTN",
-      "enabled": true,
+      "enabled": false,
       "expire_at": "2026-05-14T16:26:43Z",
       "hwid": null,
       "perm": {
