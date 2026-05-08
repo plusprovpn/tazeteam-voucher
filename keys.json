@@ -60,6 +60,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-YT99-JYB2-T2B2",
+      "enabled": true,
+      "expire_at": "2026-06-07T10:54:04Z",
+      "hwid": "e9475ca398497b24db89d854ca5ff14815005772d4f52e92bbeed2f2cd10b1d0",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
