@@ -83,7 +83,7 @@
     },
     {
       "key": "TZ-VJNU-L4YG-X1TG",
-      "enabled": true,
+      "enabled": false,
       "expire_at": "2026-06-06T16:52:42Z",
       "hwid": null,
       "perm": {
