@@ -40,6 +40,16 @@
         "menu3": true,
         "menu4": true
       }
+    },
+    {
+      "key": "TZ-SLO3-4PKQ-NN0G",
+      "enabled": true,
+      "expire_at": "2026-06-07T10:07:37Z",
+      "hwid": "6cb62f4194f7253a13455e29588f0ee857f8dde16efd6d59806edbeef2a7bfa6",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
