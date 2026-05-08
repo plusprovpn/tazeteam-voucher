@@ -70,6 +70,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-7TZG-D4AG-OPTV",
+      "enabled": true,
+      "expire_at": "2026-06-07T10:57:43Z",
+      "hwid": "608abf442724de7f704c70710483f5ba4baf914f2570c2bac84a384c3456898a",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
