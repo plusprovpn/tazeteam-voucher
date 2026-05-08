@@ -20,6 +20,16 @@
         "menu3": true,
         "menu4": true
       }
+    },
+    {
+      "key": "TZ-708Y-73GZ-ZMJY",
+      "enabled": true,
+      "expire_at": "2026-05-09T02:47:10Z",
+      "hwid": "2bbbfb3411d5f70effe3158ab114b5ffc3003409dbc5433750b04ba0e9386b97",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
