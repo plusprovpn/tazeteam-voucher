@@ -50,6 +50,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-0D8H-6K34-4KUM",
+      "enabled": true,
+      "expire_at": "2026-06-07T10:41:14Z",
+      "hwid": "8430b11cd22bfae6489501e24454f3eaa731fa69a73feeb6c90d385bfcfb2ca8",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
