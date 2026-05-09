@@ -12,16 +12,6 @@
       }
     },
     {
-      "key": "TZ-OT0P-UG8M-GKTZ",
-      "enabled": true,
-      "expire_at": "2026-05-09T03:56:55Z",
-      "hwid": "fed829d6a9bb40ce115a37018155be1f8b28525497543e87bdcc6c9afc272806",
-      "perm": {
-        "menu3": true,
-        "menu4": true
-      }
-    },
-    {
       "key": "TZ-SLO3-4PKQ-NN0G",
       "enabled": true,
       "expire_at": "2026-06-07T10:07:37Z",
