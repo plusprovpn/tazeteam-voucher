@@ -2,16 +2,6 @@
   "grace_hours": 24,
   "keys": [
     {
-      "key": "TZ-2CKG-4AZA-AFUN",
-      "enabled": false,
-      "expire_at": "2026-05-09T01:19:50Z",
-      "hwid": "0469f597b70cb211687333427474b47da7f71ea07ce022c00a1ab6bd3a1e6b96",
-      "perm": {
-        "menu3": true,
-        "menu4": true
-      }
-    },
-    {
       "key": "TZ-HPCF-V9T8-0QII",
       "enabled": true,
       "expire_at": "2026-05-09T01:25:05Z",
