@@ -110,6 +110,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-8HCX-4GJN-0AGZ",
+      "enabled": true,
+      "expire_at": "2026-06-08T04:20:25Z",
+      "hwid": "5553b0754887c768bdc2222558daed0d53194e9511430346008ab47ee948838b",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
