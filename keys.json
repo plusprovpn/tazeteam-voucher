@@ -130,6 +130,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-658Z-W4MO-X1KC",
+      "enabled": true,
+      "expire_at": "2026-05-10T06:32:04Z",
+      "hwid": "2bbbfb3411d5f70effe3158ab114b5ffc3003409dbc5433750b04ba0e9386b97",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
