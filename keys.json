@@ -120,6 +120,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-RSLA-A9BU-89I4",
+      "enabled": true,
+      "expire_at": "2026-06-08T04:44:07Z",
+      "hwid": "2f82c017d5de5a0c99edaef34ec5cf13e6ac36f93cef052b9189c9209ed2184b",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
