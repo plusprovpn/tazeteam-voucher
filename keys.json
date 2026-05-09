@@ -100,6 +100,16 @@
         "menu3": false,
         "menu4": false
       }
+    },
+    {
+      "key": "TZ-JCV5-OV45-BBSV",
+      "enabled": true,
+      "expire_at": "2026-05-10T03:53:30Z",
+      "hwid": "a0b6e2a8da1a1c6975f7b37981aecdc9c348e123329805a7c661812f366fd090",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      }
     }
   ]
 }
