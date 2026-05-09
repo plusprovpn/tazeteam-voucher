@@ -3,7 +3,7 @@
   "keys": [
     {
       "key": "TZ-2CKG-4AZA-AFUN",
-      "enabled": true,
+      "enabled": false,
       "expire_at": "2026-05-09T01:19:50Z",
       "hwid": "0469f597b70cb211687333427474b47da7f71ea07ce022c00a1ab6bd3a1e6b96",
       "perm": {
