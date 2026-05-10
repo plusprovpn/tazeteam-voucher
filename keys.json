@@ -1,15 +1,25 @@
 {
-"grace_hours": 24,
-"devices": [
-{
-"hwid": "0469f597b70cb211687333427474b47da7f71ea07ce022c00a1ab6bd3a1e6b96",
-"enabled": true,
-"expire_at": "2026-12-31T23:59:59Z",
-"perm": {
-"menu3": false,
-"menu4": false
-},
-"success_limit": 10
-}
-]
+  "grace_hours": 24,
+  "devices": [
+    {
+      "hwid": "0469f597b70cb211687333427474b47da7f71ea07ce022c00a1ab6bd3a1e6b96",
+      "enabled": true,
+      "expire_at": "2026-12-31T23:59:59Z",
+      "perm": {
+        "menu3": false,
+        "menu4": false
+      },
+      "success_limit": 10
+    },
+    {
+      "hwid": "d1e89a9fa842e9abe2d99ef7f3116ee027776dfc47f551c316ff88b363c62194",
+      "enabled": true,
+      "expire_at": "2026-08-08T07:09:45Z",
+      "perm": {
+        "menu3": true,
+        "menu4": true
+      },
+      "success_limit": 10
+    }
+  ]
 }
