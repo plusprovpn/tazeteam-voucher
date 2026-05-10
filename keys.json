@@ -80,6 +80,16 @@
         "menu3": true,
         "menu4": true
       }
+    },
+    {
+      "key": "TZ-0R76-6UIC-LIJY",
+      "enabled": true,
+      "expire_at": "2026-08-08T03:03:53Z",
+      "hwid": "3f30ab0e78f33c8e8b990ca13607409d421e3137ea9502061ff704cf941ac757",
+      "perm": {
+        "menu3": true,
+        "menu4": true
+      }
     }
   ]
 }
