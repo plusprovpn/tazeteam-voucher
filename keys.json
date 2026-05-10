@@ -1,105 +1,15 @@
 {
-  "grace_hours": 24,
-  "keys": [
-    {
-      "key": "TZ-SLO3-4PKQ-NN0G",
-      "enabled": true,
-      "expire_at": "2026-06-07T10:07:37Z",
-      "hwid": "6cb62f4194f7253a13455e29588f0ee857f8dde16efd6d59806edbeef2a7bfa6",
-      "perm": {
-        "menu3": false,
-        "menu4": false
-      }
-    },
-    {
-      "key": "TZ-0D8H-6K34-4KUM",
-      "enabled": true,
-      "expire_at": "2026-06-07T10:41:14Z",
-      "hwid": "8430b11cd22bfae6489501e24454f3eaa731fa69a73feeb6c90d385bfcfb2ca8",
-      "perm": {
-        "menu3": false,
-        "menu4": false
-      }
-    },
-    {
-      "key": "TZ-7TZG-D4AG-OPTV",
-      "enabled": true,
-      "expire_at": "2026-06-07T10:57:43Z",
-      "hwid": "608abf442724de7f704c70710483f5ba4baf914f2570c2bac84a384c3456898a",
-      "perm": {
-        "menu3": false,
-        "menu4": false
-      }
-    },
-    {
-      "key": "TZ-YVEL-TXBS-MXAL",
-      "enabled": true,
-      "expire_at": "2026-06-07T14:32:07Z",
-      "hwid": "ef9d8f4eba28b15e09f1f1ad9e71899cc47c05c9aeaa61fc0d5103374d6b894d",
-      "perm": {
-        "menu3": false,
-        "menu4": false
-      }
-    },
-    {
-      "key": "TZ-L81P-DCA9-5BK0",
-      "enabled": true,
-      "expire_at": "2026-06-07T15:48:50Z",
-      "hwid": "c2409827537b2a910103998fa1efcb6235f11b2d3c4b019f5161b82109b2ce3f",
-      "perm": {
-        "menu3": false,
-        "menu4": false
-      }
-    },
-    {
-      "key": "TZ-8HCX-4GJN-0AGZ",
-      "enabled": true,
-      "expire_at": "2026-06-08T04:20:25Z",
-      "hwid": "5553b0754887c768bdc2222558daed0d53194e9511430346008ab47ee948838b",
-      "perm": {
-        "menu3": false,
-        "menu4": false
-      }
-    },
-    {
-      "key": "TZ-RSLA-A9BU-89I4",
-      "enabled": true,
-      "expire_at": "2026-06-08T04:44:07Z",
-      "hwid": "2f82c017d5de5a0c99edaef34ec5cf13e6ac36f93cef052b9189c9209ed2184b",
-      "perm": {
-        "menu3": false,
-        "menu4": false
-      }
-    },
-    {
-      "key": "TZ-658Z-W4MO-X1KC",
-      "enabled": true,
-      "expire_at": "2026-05-10T06:32:04Z",
-      "hwid": "2bbbfb3411d5f70effe3158ab114b5ffc3003409dbc5433750b04ba0e9386b97",
-      "perm": {
-        "menu3": true,
-        "menu4": true
-      }
-    },
-    {
-      "key": "TZ-0R76-6UIC-LIJY",
-      "enabled": true,
-      "expire_at": "2026-08-08T03:03:53Z",
-      "hwid": "3f30ab0e78f33c8e8b990ca13607409d421e3137ea9502061ff704cf941ac757",
-      "perm": {
-        "menu3": true,
-        "menu4": true
-      }
-    },
-    {
-      "key": "TZ-IXVZ-KY0G-3MAG",
-      "enabled": true,
-      "expire_at": "2026-08-08T04:31:20Z",
-      "hwid": "d1e89a9fa842e9abe2d99ef7f3116ee027776dfc47f551c316ff88b363c62194",
-      "perm": {
-        "menu3": true,
-        "menu4": true
-      }
-    }
-  ]
+"grace_hours": 24,
+"devices": [
+{
+"hwid": "0469f597b70cb211687333427474b47da7f71ea07ce022c00a1ab6bd3a1e6b96",
+"enabled": true,
+"expire_at": "2026-12-31T23:59:59Z",
+"perm": {
+"menu3": false,
+"menu4": false
+},
+"success_limit": 10
+}
+]
 }
