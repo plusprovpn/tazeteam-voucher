@@ -90,6 +90,16 @@
         "menu3": true,
         "menu4": true
       }
+    },
+    {
+      "key": "TZ-IXVZ-KY0G-3MAG",
+      "enabled": true,
+      "expire_at": "2026-08-08T04:31:20Z",
+      "hwid": "d1e89a9fa842e9abe2d99ef7f3116ee027776dfc47f551c316ff88b363c62194",
+      "perm": {
+        "menu3": true,
+        "menu4": true
+      }
     }
   ]
 }
