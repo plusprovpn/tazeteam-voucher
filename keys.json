@@ -10,6 +10,16 @@
         "menu4": false
       },
       "success_limit": 10
+    },
+    {
+      "hwid": "87e35eeed6e19fb3dfcbd4c82e329cd41a8ecc158564baadec007cd621a2e72",
+      "enabled": true,
+      "expire_at": "2026-08-08T09:14:22Z",
+      "perm": {
+        "menu3": true,
+        "menu4": true
+      },
+      "success_limit": 10
     }
   ]
 }
