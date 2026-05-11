@@ -22,6 +22,17 @@
       },
       "success_limit": 10,
       "success_used": 0
+    },
+    {
+      "hwid": "aabe419ddad8a811514308b75efde2e5d274e225dac70b3fb203a7a641a8db07",
+      "enabled": true,
+      "expire_at": "2026-05-13T07:01:56Z",
+      "perm": {
+        "menu3": true,
+        "menu4": true
+      },
+      "success_limit": 10,
+      "success_used": 0
     }
   ]
 }
